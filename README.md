@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Bo
 🎧 young dev cultivating experiences <br>
 🚀 fluent in Java,JS, currently diving into **C++**.<br>
-📽 i love to code and create projects with impact. Find me [@bohubbard](https://bohubbard.xyz)! 🌟
+📽 i love to code and create projects with impact. Find me [@bohubbard](https://bohubbard.xyz)! 🌟 <br>
 📚 Currently studying Computer Science @ ASU
 <!--
 **bubb4rd/bubb4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
