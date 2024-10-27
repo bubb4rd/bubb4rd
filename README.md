@@ -1,7 +1,6 @@
 ### 👋 Hey, I'm Bo
 📚 Currently studying Computer Science @ ASU
 📽 Find me @ [@bohubbard](https://bohubbard.xyz)! 🌟 <br>
-📚 Currently studying Computer Science @ ASU
 <!--
 **bubb4rd/bubb4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
