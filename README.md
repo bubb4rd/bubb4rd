@@ -1,7 +1,4 @@
-### 👋 Hey, I'm Bo
-📚 B.S. in Computer Science (Arizona State University)
-📽 Find me @ [@bohubbard](https://bohubbard.xyz)! 🌟 <br>
-🛩️ Recently Forward Deployed Engineer Intern @ WKCC (Member Success)
+### 🌩️ Hootin & Hollerin
 <!--
 **bubb4rd/bubb4rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
